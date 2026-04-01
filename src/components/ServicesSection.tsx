@@ -220,7 +220,7 @@ export default function ServicesSection() {
             className="btn-fill inline-flex items-center gap-2 px-8 py-4 bg-[#6B1F35] text-[#FAF5EF] rounded-full font-body font-medium tracking-wide hover:bg-[#5a1a2c] transition-all duration-300 shadow-lg shadow-[#6B1F35]/20"
             style={{ fontFamily: "'DM Sans', sans-serif" }}
           >
-            Falar com a Dra. Lamdamara
+            Falar com a Dra. Lindamara
           </a>
         </div>
       </div>

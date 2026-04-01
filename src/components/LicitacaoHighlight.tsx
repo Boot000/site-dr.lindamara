@@ -92,7 +92,7 @@ export default function LicitacaoHighlight() {
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
               Com profundo conhecimento da Nova Lei de Licitações e das melhores
-              práticas do mercado, a Dra. Lamdamara oferece assessoria completa
+              práticas do mercado, a Dra. Lindamara oferece assessoria completa
               em todas as modalidades licitatórias, garantindo segurança jurídica
               e competitividade para o seu negócio.
             </p>

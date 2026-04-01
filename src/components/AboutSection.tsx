@@ -56,8 +56,8 @@ export default function AboutSection() {
             {/* Main image */}
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663503360845/SphSS3WP2AX9ZWZMwk7BBJ/about-advocacia-oQzY2mY47LeNHjbYVb2D9a.webp"
-                alt="Dra. Lamdamara Mota Aguiar"
+                src="/sobre.jpeg"
+                alt="Dra. Lindamara Mota Aguiar"
                 className="w-full h-[500px] lg:h-[600px] object-cover object-top"
               />
               {/* Overlay gradient */}
@@ -70,7 +70,7 @@ export default function AboutSection() {
                 className="font-display text-xl font-bold text-[#6B1F35]"
                 style={{ fontFamily: "'Playfair Display', serif" }}
               >
-                Dra. Lamdamara Mota Aguiar
+                Dra. Lindamara Mota Aguiar
               </div>
               <div
                 className="text-sm text-[#C06840] font-medium mt-0.5"
@@ -130,7 +130,7 @@ export default function AboutSection() {
                 className="mt-3 text-sm text-[#3D3530]/60 font-body"
                 style={{ fontFamily: "'DM Sans', sans-serif" }}
               >
-                — Dra. Lamdamara Mota Aguiar
+                — Dra. Lindamara Mota Aguiar
               </footer>
             </blockquote>
 
@@ -141,7 +141,7 @@ export default function AboutSection() {
                 style={{ fontFamily: "'DM Sans', sans-serif" }}
               >
                 Com mais de uma década de experiência no direito público e administrativo,
-                a Dra. Lamdamara construiu sua trajetória com dedicação, estudo constante
+                a Dra. Lindamara construiu sua trajetória com dedicação, estudo constante
                 e um compromisso inabalável com a ética profissional.
               </p>
               <p

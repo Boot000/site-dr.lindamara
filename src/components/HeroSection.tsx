@@ -115,7 +115,7 @@ export default function HeroSection() {
               className="font-body text-base md:text-lg text-[#3D3530]/70 leading-relaxed max-w-xl mb-10"
               style={{ fontFamily: "'DM Sans', sans-serif" }}
             >
-              Dra. <strong className="text-[#3D3530] font-semibold">Lamdamara Mota Aguiar</strong> oferece
+              Dra. <strong className="text-[#3D3530] font-semibold">Lindamara Mota Aguiar</strong> oferece
               assessoria jurídica especializada em licitações e direito administrativo, com o cuidado
               e a atenção que o seu caso merece.
             </p>
@@ -193,7 +193,7 @@ export default function HeroSection() {
               style={{ borderRadius: "60% 40% 30% 70% / 60% 30% 70% 40%" }}
             >
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663503360845/SphSS3WP2AX9ZWZMwk7BBJ/hero-advocacia-5cXpxE9cn6nHKRq45Q84fV.webp"
+                src="/sobre.jpeg"
                 alt="Escritório da Aguiar & Aguiar Advocacia"
                 className="parallax-img w-full h-[520px] xl:h-[600px] object-cover"
               />

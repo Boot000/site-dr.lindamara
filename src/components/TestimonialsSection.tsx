@@ -11,7 +11,7 @@ const testimonials = [
   {
     name: "Ricardo Mendes",
     role: "Diretor Comercial — Construtora Mendes & Filhos",
-    text: "A Dra. Lamdamara foi fundamental para nossa empresa vencer uma licitação de grande porte. Seu conhecimento técnico e atenção aos detalhes do edital fizeram toda a diferença. Profissional excepcional!",
+    text: "A Dra. Lindamara foi fundamental para nossa empresa vencer uma licitação de grande porte. Seu conhecimento técnico e atenção aos detalhes do edital fizeram toda a diferença. Profissional excepcional!",
     rating: 5,
     initials: "RM",
     color: "#6B1F35",
@@ -27,7 +27,7 @@ const testimonials = [
   {
     name: "Paulo Ferreira",
     role: "Sócio-fundador — TechGov Soluções",
-    text: "Nossa empresa estava sendo injustamente desclassificada em pregões eletrônicos. A Dra. Lamdamara elaborou recursos impecáveis e conseguimos reverter todas as decisões. Competência e dedicação raras.",
+    text: "Nossa empresa estava sendo injustamente desclassificada em pregões eletrônicos. A Dra. Lindamara elaborou recursos impecáveis e conseguimos reverter todas as decisões. Competência e dedicação raras.",
     rating: 5,
     initials: "PF",
     color: "#6B1F35",
@@ -43,7 +43,7 @@ const testimonials = [
   {
     name: "Marcos Oliveira",
     role: "Gerente de Licitações — Grupo Oliveira",
-    text: "Trabalhamos juntos há 3 anos e a qualidade do serviço só melhora. A Dra. Lamdamara está sempre atualizada com as mudanças na legislação e nos mantém protegidos em todos os processos.",
+    text: "Trabalhamos juntos há 3 anos e a qualidade do serviço só melhora. A Dra. Lindamara está sempre atualizada com as mudanças na legislação e nos mantém protegidos em todos os processos.",
     rating: 5,
     initials: "MO",
     color: "#6B1F35",
@@ -51,7 +51,7 @@ const testimonials = [
   {
     name: "Fernanda Lima",
     role: "Coordenadora Jurídica — Cooperativa Agro",
-    text: "Precisávamos de uma advogada que entendesse tanto o lado técnico quanto o humano das licitações. A Dra. Lamdamara superou todas as expectativas. Nosso escritório de referência em licitações.",
+    text: "Precisávamos de uma advogada que entendesse tanto o lado técnico quanto o humano das licitações. A Dra. Lindamara superou todas as expectativas. Nosso escritório de referência em licitações.",
     rating: 5,
     initials: "FL",
     color: "#C06840",

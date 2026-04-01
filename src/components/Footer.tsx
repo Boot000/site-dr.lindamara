@@ -8,7 +8,7 @@ import { Scale, Heart, Instagram, Linkedin, Facebook } from "lucide-react";
 const footerLinks = {
   "Navegação": [
     { label: "Início", href: "#inicio" },
-    { label: "Sobre a Dra. Lamdamara", href: "#sobre" },
+    { label: "Sobre a Dra. Lindamara", href: "#sobre" },
     { label: "Especialidades", href: "#especialidades" },
     { label: "Como Trabalhamos", href: "#processo" },
     { label: "Depoimentos", href: "#depoimentos" },
@@ -141,7 +141,7 @@ export default function Footer() {
               © {new Date().getFullYear()} Aguiar & Aguiar Advocacia. Todos os direitos reservados.
               <br />
               <span className="text-[#FAF5EF]/30">
-                OAB/BR — Dra. Lamdamara Mota Aguiar
+                OAB/BR — Dra. Lindamara Mota Aguiar
               </span>
             </p>
             <p

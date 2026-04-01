@@ -85,7 +85,7 @@ export default function ContactSection() {
     setTimeout(() => {
       setSending(false);
       toast.success("Mensagem enviada! Entraremos em contato em breve.", {
-        description: "A Dra. Lamdamara responderá em até 24 horas.",
+        description: "A Dra. Lindamara responderá em até 24 horas.",
       });
       setFormData({ name: "", email: "", phone: "", subject: "", message: "" });
     }, 1500);
