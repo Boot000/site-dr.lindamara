@@ -3,7 +3,7 @@
  * Design: Fundo Bordeaux escuro, tipografia clara, links organizados
  */
 
-import { Scale, Heart, Instagram, Linkedin, Facebook } from "lucide-react";
+import { Scale, Heart, ExternalLink } from "lucide-react";
 
 const footerLinks = {
   "Navegação": [
@@ -88,9 +88,9 @@ export default function Footer() {
             {/* Social links */}
             <div className="flex gap-3 mt-6">
               {[
-                { icon: Instagram, href: "#", label: "Instagram" },
-                { icon: Linkedin, href: "#", label: "LinkedIn" },
-                { icon: Facebook, href: "#", label: "Facebook" },
+                { icon: ExternalLink, href: "#", label: "Instagram" },
+                { icon: ExternalLink, href: "#", label: "LinkedIn" },
+                { icon: ExternalLink, href: "#", label: "Facebook" },
               ].map(({ icon: Icon, href, label }) => (
                 <a
                   key={label}
